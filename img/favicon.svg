@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#1D3557"/>
+  <text x="48" y="68" font-family="sans-serif" font-weight="900" font-size="42" fill="#FFFFFF" text-anchor="middle">R&amp;O</text>
+  <circle cx="80" cy="20" r="10" fill="#F4A261"/>
+</svg>
