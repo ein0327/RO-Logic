@@ -546,42 +546,7 @@ p {
   margin-bottom: var(--spacing-mb-sm);
 }
 
-/* Background Image Assignments with Parallax & Bleed Gradients */
-.pain-points {
-  background-image: 
-    linear-gradient(rgba(248, 249, 250, 0.88), rgba(248, 249, 250, 0.96)),
-    url('../img/bg-pain.png');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-}
-
-.system {
-  background-image: 
-    linear-gradient(rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.96)),
-    url('../img/bg-mechanism.png');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-}
-
-.recruit {
-  background-image: 
-    linear-gradient(rgba(248, 249, 250, 0.88), rgba(248, 249, 250, 0.96)),
-    url('../img/bg-recruit.png');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-}
-
-.process {
-  background-image: 
-    linear-gradient(rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.96)),
-    url('../img/bg-partnership.png');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-}
+/* Removed image backgrounds to showcase SVG animations cleanly */
 
 .message {
   background-image: 
